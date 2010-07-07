@@ -19,5 +19,5 @@ Feature: Helpers in helper specs are initialized
       end
       """
     When I run "rspec ./spec"
-    Then I should see "1 examples, 0 failures"
+    Then I should see "1 example, 0 failures"
 
